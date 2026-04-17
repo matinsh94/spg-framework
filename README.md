@@ -1,4 +1,7 @@
 Secure Policy Gateway (SPG)
+## Architecture
+
+![SPG Diagram](spg.jpg)
 
 SPG is a conceptual security middleware designed to enforce operation-level access control using a Zero-Trust model.
 
